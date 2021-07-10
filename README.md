@@ -4,3 +4,7 @@ MATLAB code to visualize/sort through flourescent intensities of single molecule
 
 
 The SMF format consits of the following structure. 
+
+| field of view id | fixed spot id | fixed spot x coordinate | fixed spot y coordinate | signal intensity | px distance from fixed spot to signal spot | background intensity around signal spot |
+|------------------|---------------|-------------------------|-------------------------|------------------|--------------------------------------------|-----------------------------------------|
+|                  |             
